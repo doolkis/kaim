@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* KÉNYSZERÍTETT HASZNÁLAT Tailwind osztályokra */
+.test-grid {
+  @apply grid grid-cols-5 h-screen bg-white text-black;
+}
+
+.test-col-left {
+  @apply col-span-1 p-4 overflow-y-auto border-r;
+}
+
+.test-col-center {
+  @apply col-span-3 p-4 overflow-y-auto;
+}
+
+.test-col-right {
+  @apply col-span-1 p-4 overflow-y-auto border-l;
+}

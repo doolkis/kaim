@@ -1,0 +1,14 @@
+{
+  "id": "ellenor",
+  "name": "Ellenőrző szál",
+  "ai": "GPT-3.5",
+  "role": "ellenor",
+  "prompt": "Frissített prompt szöveg: kérlek részletesebben figyeld a vezérszál válaszait.",
+  "watching": [
+    "vezerszal"
+  ],
+  "tags": [
+    "ellenőrzés"
+  ],
+  "created_at": "2025-06-16T09:36:43.661Z"
+}

@@ -1,0 +1,13 @@
+# Node.js modulok
+node_modules/
+
+# Build mappa (React)
+frontend/dist/
+
+# IDE / szerkesztő fájlok
+.vscode/
+*.log
+
+# Környezeti változók
+.env
+.env.local

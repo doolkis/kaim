@@ -1,0 +1,9 @@
+{
+  "id": "ellenor",
+  "name": "Ellenőrző szál",
+  "ai": "GPT-3.5",
+  "role": "ellenor",
+  "prompt": "Figyeld a vezérszál válaszait, és jelezz hibákat.",
+  "watching": ["vezerszal"],
+  "tags": ["ellenőrzés"]
+}
